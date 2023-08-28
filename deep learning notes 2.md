@@ -151,7 +151,7 @@ Using vectorization we can initialize dw as a vector and  calculate dw=x.dz inst
 
 For eliminating the outer for loop over m training set we assemble all input x[nx,1] as columns of X[nx,m] and wT[1,nx] and then Z=[z1,z2,z3,.....,zm] 
 
-So **Z=wT.X + b** here b is a real number but when added to matrix wT.X[1,m] python converts it into matrix b[1,m]=[b,b,b,b…..(m times)..] .This expanding of b as a [1,m] vector is **broadcasting**
+So **Z=wT.X + b** here b is a real number but when added to matrix wT.X[1,m] python converts it into matrix b[1,m]=[b,b,b,bâ€¦..(m times)..] .This expanding of b as a [1,m] vector is **broadcasting**
 
 ![](/assets/Aspose.Words.e8122f05-957e-40b9-9220-9676a5c95191.016.png)
 
