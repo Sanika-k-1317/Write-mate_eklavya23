@@ -244,7 +244,7 @@ i represents no of features(nodes) of the layer and j represents the no of featu
 
 Rather than using for loop for all hidden units of a layer,we can stack them into vectors
 
-W[1] vector consists of wT vectors of all nodes as rows, b[1] is a column vector with all biases of nos as rows. X[n,1] consists of all input features.Z[1],a[1] are [i,1] vectors of z and a for all nodes of layer 1. Now a[1] acts as X for layer 2 with W[2] and b[2]giving a[2] as output.![](Aspose.Words.e8122f05-957e-40b9-9220-9676a5c95191.025.png)
+W[1] vector consists of wT vectors of all nodes as rows, b[1] is a column vector with all biases of nos as rows. X[n,1] consists of all input features.Z[1],a[1] are [i,1] vectors of z and a for all nodes of layer 1. Now a[1] acts as X for layer 2 with W[2] and b[2]giving a[2] as output.![](/assets/Aspose.Words.e8122f05-957e-40b9-9220-9676a5c95191.025.png)
 
 For m training examples, X is [n,m] and Z[1] and A[1] are also rectangular matrices.
 
