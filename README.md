@@ -16,12 +16,12 @@ The model uses Long-short term memory cell layers and attention mechanism
 ### LSTM: 
 LSTM can use its memory to generate complex,
 realistic sequences containing long-range structure. It uses purpose-built memory cells to store information, is better at finding and exploiting long range dependencies in the data.
-![](https://pluralsight2.imgix.net/guides/8a8ac7c1-8bac-4e89-ace8-9e28813ab635_3.JPG)
+![](https://www.mdpi.com/sensors/sensors-21-05625/article_deploy/html/images/sensors-21-05625-g001.png)
 
 ### Attention-mechanism
 The number of co-ordinates used to write
 each character varies greatly compared to text according to style, size, pen speed etc. The attention-mechanism assists to create a soft-window so that it dynamically determines an alignment between the text and the pen locations. That is, it helps model to learn to decide which character to write next.
-![](https://miro.medium.com/v2/resize:fit:700/1*wa4zt-LcMWRIYLfiHfBKvA.png)
+![](https://www.scaler.com/topics/images/attention-mechanism-deep-learning-featured-1.webp)
 
 ### Mixture Density Network (MDN)
 Mixture Density Networks are neural networks which can measure their own uncertainty and help to capture randomness of handwriting. They output parameters μ(mean), σ(standard deviation), and ρ(correlation) for several multivariate Gaussian components. They also estimate a parameter π(weights) for each of these distributions which helps to gauge contribution of each distriution in the output.
