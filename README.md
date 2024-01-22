@@ -3,7 +3,7 @@
 
 ## Aim
 
-The project aims to create a system consisting of trained neural network that generates realistic handwritten text from input text. 
+The project aims to create a system consisting of trained neural network based on LSTM and Attention that generates realistic handwritten text from input text. 
 
 ## Description
 The project is an implementation of Alex Graves 2014 paper [Generating Sequences With
@@ -11,7 +11,7 @@ Recurrent Neural Networks](https://arxiv.org/abs/1308.0850). It processes input 
 
 # Theory
 
-The model uses Long-short term memory cell layers and attention mechanism
+The model uses Long-short term memory cell layers and attention mechanism.
 
 ### LSTM: 
 LSTM can use its memory to generate complex,
@@ -48,7 +48,7 @@ Some of the ways in which this model can advance are listed below
 - Generate handwriting in the style of a particular writer. This can be achieved with primed sampling
 
 # Contributors
-- Mohammed Bhadsorwala
+- [Mohammed Bhadsorawala](https://github.com/mohammed052)
 - Sanika Kumbhare
 
 # Acknowledgements
@@ -61,11 +61,6 @@ Deep Learning courses
 - [Improving Deep Neural Networks: Hyperparameter Tuning](https://www.coursera.org/learn/deep-neural-network/home/week/1)
 - [Convolution Neural Network](https://www.coursera.org/learn/convolutional-neural-networks/home/week/1)
 - [Sequence model](https://www.coursera.org/learn/nlp-sequence-models/home/week/1)
-[Referenced Github repo](https://github.com/laihaotao/handwriting-synthesis)
-
-[Referred for understanding subclassing](https://towardsdatascience.com/model-sub-classing-and-custom-training-loop-from-scratch-in-tensorflow-2-cc1d4f10fb4e)
-
-
-
+[Referred Github repository](https://github.com/sjvasquez/handwriting-synthesis)
 
 
