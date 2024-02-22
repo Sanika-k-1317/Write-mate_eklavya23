@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "c024752234d9d345",
+    "type": "split",
+    "children": [
+      {
+        "id": "58c470531818fe76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fee2b501b8c7a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course 1- NN and deep learning notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f5dd9fa4624db20",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a24f9778a1cb489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21ae438525dd76b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e20fb1abd8d002e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b16ef9c974e22ca3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "941ab8bbaa1b4c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c10306e5e86120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce50840003a80c90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Course 1- NN and deep learning notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51f28c4638fa95e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Course 1- NN and deep learning notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9690d477f671d32b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da990860b44c3f50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Course 1- NN and deep learning notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2fee2b501b8c7a9a",
+  "lastOpenFiles": [
+    "Assignments/Python_Basics_with_Numpy.ipynb",
+    "Assignments/Planar_data_classification_with_one_hidden_layer.ipynb",
+    "Assignments/Logistic_Regression_with_a_Neural_Network_mindset.ipynb",
+    "Assignments/Deep Neural Network - Application.ipynb",
+    "Assignments/Building_your_Deep_Neural_Network_Step_by_Step.ipynb",
+    "Assignments",
+    "Course 1- NN and deep learning notes.md"
+  ]
+}
