@@ -16,7 +16,12 @@ During our learning phase, we engaged in Coursera courses by Andrew Ng on [Deep 
   ![](./assets/mnist_accuracy.png)
 
 - We explored Convolutional Neural Networks (CNNs) and various architectures. Utilizing ResNet18 and ResNet50 architectures, we developed a Facial Emotion Recognition model with the FER2013 dataset to detect a person's mood from images.
+- Achieved 87.25% accuracy on ResNet18 model
+  ![](./assets/fer-accuracy.png)
+- Achieved 82% accuracy on ResNet50 model
   ![](./assets/facial-emotion-recognition.png)
+  ![](./assets/facial-emotion-recognition-mixed.png)
+  ![](./assets/fer-angry.png)
 
 ### LSTM:
 
